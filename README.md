@@ -5,8 +5,10 @@
 - 🛠 Estou procurando uma oportunidade para ingressar no mercado como um desnvolvedor front-end.
 - #### Links
 
-<a href = "mailto:alf.matsuoka2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alfonso-matsuoka-schiavelli-74095a187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  <a href = "mailto:alf.matsuoka2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alfonso-matsuoka-schiavelli-74095a187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ### Stats
 
