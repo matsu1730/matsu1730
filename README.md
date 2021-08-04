@@ -5,10 +5,9 @@
 - 🛠 Estou procurando uma oportunidade para ingressar no mercado como um desnvolvedor front-end.
 - #### Links
 
-<div>
   <a href = "mailto:alf.matsuoka2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alfonso-matsuoka-schiavelli-74095a187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <a href="https://www.linkedin.com/in/alfonso-matsuoka-schiavelli-74095a187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
 ### Stats
 
@@ -19,11 +18,20 @@
 </div>
 
 ### O que mais utilizo: 
- 
+  
 <div style="display: inline_block">
-  <img align="center" alt="Alf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="alf-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="alf-css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="alf-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="alf-boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+
+### Outras Skills:
+  
+<div style="display: inline_block">
+  <img align="center" alt="alf-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="alf-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="alf-sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
 ##
