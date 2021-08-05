@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsu1730&layout=compact&langs_count=7&theme=dark&card_width=250em"/>
 </div>
 
-### O que mais utilizo: 
+### Principais Skills: 
   
 <div style="display: inline_block">
   <img align="center" alt="alf-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
