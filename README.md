@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Monitoramento JR na Sintel Tecnologia e Informação S/A.
 - 🌱 Estou cursando Análise e desenvolvimento de sistemas pela FIAP.
-- 🛠 Estou procurando uma oportunidade para ingressar no mercado como um desnvolvedor front-end.
+- 🛠 Estou procurando uma oportunidade para ingressar no mercado como um desnvolvedor, analista de dados ou nas demais áreas de TI.
 - #### Links
 
   <a href = "mailto:alf.matsuoka2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
