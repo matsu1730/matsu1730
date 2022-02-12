@@ -1,4 +1,4 @@
-## Bem-vindo(a) 👋
+## Welcome! 👋
 
 - 🔭 Currently working as a Junior Systems Engineer for Minsait.
 - 🌱 Enrolled in a graduation course(System Analysis and Development).
