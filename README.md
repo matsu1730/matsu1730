@@ -1,8 +1,7 @@
 ## Bem-vindo(a) 👋
 
-- 🔭 Atualmente trabalho como Analista de Monitoramento JR na Sintel Tecnologia e Informação S/A.
-- 🌱 Estou cursando Análise e desenvolvimento de sistemas pela FIAP.
-- 🛠 Estou procurando uma oportunidade para ingressar no mercado como um desnvolvedor, analista de dados ou nas demais áreas de TI.
+- 🔭 Currently working as a Junior Systems Engineer for Minsait.
+- 🌱 Enrolled in a graduation course(System Analysis and Development).
 - #### Links
 
   <a href = "mailto:alf.matsuoka2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsu1730&layout=compact&langs_count=7&theme=dark&card_width=250em"/>
 </div>
 
-### Principais Skills: 
+### Hard Skills: 
   
 <div style="display: inline_block">
   <img align="center" alt="alf-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,7 +26,7 @@
   <img align="center" alt="alf-react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-### Outras Skills:
+### Other Hard Skills:
   
 <div style="display: inline_block">
   <img align="center" alt="alf-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
