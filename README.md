@@ -1,7 +1,7 @@
 ## Welcome! 👋
 
-- 🔭 Currently working as a Junior Systems Engineer for Minsait.
-- 🌱 Software Analysis and Development degree.
+- 🔭 Currently working as a Systems Engineer for Minsait.
+- 🌱 Associates degree on Software Analysis and Development .
 - #### Links
 
   <a href = "mailto:alf.matsuoka2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
